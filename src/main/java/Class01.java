@@ -8,6 +8,8 @@ public class Class01 {
         int z = 4;
         System.out.println(x+z+y);
         // Versiyon 3 calismalari...
+        // Versiyon 4 icin yeni kodlar...
+
 
     }
 }
