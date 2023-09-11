@@ -7,5 +7,7 @@ public class Class01 {
         // Versiyon 2 calismalari
         int z = 4;
         System.out.println(x+z+y);
+        // Versiyon 3 calismalari...
+
     }
 }
